@@ -1,0 +1,1 @@
+Um terminal linux implementado
